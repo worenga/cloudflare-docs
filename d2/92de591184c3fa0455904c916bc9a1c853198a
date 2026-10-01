@@ -1,0 +1,25 @@
+src/content/docs/waf/rate-limiting-rules/best-practices.mdx
+  s_ebbec95c575029::t_2e1214d8af24a8 41,43,49-50,54-55
+src/content/docs/cloudflare-challenges/concepts/clearance.mdx
+  s_ebbec95c575029::t_5d1df0fc24ff31 26-28
+src/content/docs/waf/rate-limiting-rules/parameters.mdx
+  s_ebbec95c575029::t_045204cefc4304 51,69,247,257-258
+src/content/fields/index.yaml
+  s_ebbec95c575029::t_953982b42ce882 811-821
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d292de591184c3fa0455904c916bc9a1c853198a",
+  "prompts": {},
+  "sessions": {
+    "s_ebbec95c575029": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a0ef-f14a-7641-bf45-3be17cad7296",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Benedikt Wolters <benedikt@cloudflare.com>"
+    }
+  }
+}
